@@ -1,6 +1,8 @@
 namespace: community
 name: deploy_wp
 version: 1.0.0
+tags:
+  - centos
 readme: README.md
 authors:
   - JOSEPH Daniel
