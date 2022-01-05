@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: deploy_wordpress
+  role_name: deploy_wp
   author: Daniel
   description: "installation de wordpress"
   license: BSD
