@@ -1,0 +1,13 @@
+namespace: community
+name: deploy_wp
+version: 1.0.0
+readme: README.md
+authors:
+  - JOSEPH Daniel
+description: "Installation de Wordpress+Mysql"
+repository: https://github.com/djoseph14/deploy_wp.git
+documentation: https://github.com/djoseph14/deploy_wp.git
+homepage: https://github.com/djoseph14/deploy_wp.git
+issues: https://github.com/djoseph14/deploy_wp.git
+build_ignore:
+  - .gitignore

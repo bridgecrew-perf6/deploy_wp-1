@@ -1,0 +1,6 @@
+---
+galaxy_info:
+  role_name: deploy_wordpress
+  author: Daniel
+  description: "installation de wordpress"
+  license: BSD

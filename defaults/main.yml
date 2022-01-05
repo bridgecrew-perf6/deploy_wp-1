@@ -1,0 +1,25 @@
+#containers name
+mysql_app_name: "mysql"
+wp_app_name: "wordpress"
+mysql_version: "mysql:latest"
+wordpress_version: "wordpress:latest"
+
+#db settings
+mysql_root_password: "password"
+mysql_db: "wordpress_db"
+mysql_user: "wordpress_user"
+mysql_password: "user_password"
+
+#Divers settings
+ansible_user: "user1"
+ansible_password: "user1"
+ansible_become_password: "user1"
+
+#networks settings
+network_name: "dbwp"
+wp_port: "8080"
+mysql_port: "3306"
+
+#mounted backup volumes
+save_db: "/db-data"
+save_wp: "/wp-data"
