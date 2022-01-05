@@ -1,6 +1,11 @@
 ---
+dependencies:
+  - djoseph14.docker_install
+
 galaxy_info:
   role_name: deploy_wp
   author: Daniel
   description: "installation de wordpress"
-  license: BSD
+  license: "BSD"
+  galaxy_tags:
+    - centos
