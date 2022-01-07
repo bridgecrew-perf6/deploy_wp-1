@@ -1,6 +1,5 @@
 ---
 - hosts: localhost
-  remote_user: user1
   become: true
   vars:
     ansible_connection: local
