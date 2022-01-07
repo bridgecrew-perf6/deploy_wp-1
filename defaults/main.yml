@@ -11,9 +11,9 @@ mysql_user: "wordpress_user"
 mysql_password: "user_password"
 
 #Divers settings
-ansible_user: "user1"
-ansible_password: "user1"
-ansible_become_password: "user1"
+#ansible_user: "user1"
+#ansible_password: "user1"
+#ansible_become_password: "user1"
 
 #networks settings
 network_name: "dbwp"
